@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="mongodb_labs_writer.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="MongoDbUrl" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">mongodb://DB1,DB2,DB3</Value>
+    </Setting>
+    <Setting Name="ReplicaSet" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">RS1</Value>
+    </Setting>
+    <Setting Name="Database" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">test</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

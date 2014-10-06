@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mongodb-labs", "mongodb-labs\mongodb-labs.csproj", "{38CF0BC3-01EB-43B2-9E38-C64C605842AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mongodb-labs-reader", "mongodb-labs-reader\mongodb-labs-reader.csproj", "{759D9AAA-38F2-4991-BBBE-9303E2C17282}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mongodb-labs-writer", "mongodb-labs-writer\mongodb-labs-writer.csproj", "{9B49F849-96F5-4F65-AC6E-3FAB7A4EA49D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38CF0BC3-01EB-43B2-9E38-C64C605842AF}.Debug|x86.ActiveCfg = Debug|x86
+		{38CF0BC3-01EB-43B2-9E38-C64C605842AF}.Debug|x86.Build.0 = Debug|x86
+		{38CF0BC3-01EB-43B2-9E38-C64C605842AF}.Release|x86.ActiveCfg = Release|x86
+		{38CF0BC3-01EB-43B2-9E38-C64C605842AF}.Release|x86.Build.0 = Release|x86
+		{759D9AAA-38F2-4991-BBBE-9303E2C17282}.Debug|x86.ActiveCfg = Debug|x86
+		{759D9AAA-38F2-4991-BBBE-9303E2C17282}.Debug|x86.Build.0 = Debug|x86
+		{759D9AAA-38F2-4991-BBBE-9303E2C17282}.Release|x86.ActiveCfg = Release|x86
+		{759D9AAA-38F2-4991-BBBE-9303E2C17282}.Release|x86.Build.0 = Release|x86
+		{9B49F849-96F5-4F65-AC6E-3FAB7A4EA49D}.Debug|x86.ActiveCfg = Debug|x86
+		{9B49F849-96F5-4F65-AC6E-3FAB7A4EA49D}.Debug|x86.Build.0 = Debug|x86
+		{9B49F849-96F5-4F65-AC6E-3FAB7A4EA49D}.Release|x86.ActiveCfg = Release|x86
+		{9B49F849-96F5-4F65-AC6E-3FAB7A4EA49D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
